@@ -1,0 +1,16 @@
+{
+  "name": "t---7",
+  "version": "1.0.0",
+  "description": "Backend Is Here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "backend"
+  ],
+  "author": "Abhay Pandey",
+  "license": "ISC"
+}
+
